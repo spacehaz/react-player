@@ -1,0 +1,25 @@
+.player {
+  width: 400px;
+  min-height: 100px;
+  border: 1px solid red;
+  padding: 100px;
+}
+
+.player__equalizer {
+  height: 30px;
+  overflow: hidden;
+  font-size: 10px;
+  line-height: 30px;
+}
+
+.player__controls {
+  background: green;
+}
+
+.player__playlist {
+  border: 1px solid yellow;
+}
+
+/*.player__audio {
+  display: none;
+}*/

@@ -1,0 +1,14 @@
+.player-timeline {
+  height: 20px;
+  position: relative;
+  background: transparent;
+  border: 1px solid aqua;
+}
+
+.player-timeline__bar {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: yellow;
+}
